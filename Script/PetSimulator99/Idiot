@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Somerandomidiot/Lua/main/PS99_Protected.txt"))()
